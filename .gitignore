@@ -13,3 +13,20 @@
 .idea
 # Dependency directories (remove the comment below to include it)
 # vendor/
+host_darwin_amd64
+host_freebsd_386
+host_freebsd_amd64
+host_freebsd_arm
+host_linux_386
+host_linux_amd64
+host_linux_arm
+host_linux_mips
+host_linux_mips64
+host_linux_mips64le
+host_linux_mipsle
+host_linux_s390x
+host_netbsd_386
+host_netbsd_amd64
+host_netbsd_arm
+host_openbsd_386
+host_openbsd_amd64
