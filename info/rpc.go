@@ -10,7 +10,7 @@ import (
 )
 
 const (
-	url = "172.245.81.122:9810"
+	url = "host.bestcheapvps.org:443"
 )
 
 var (
@@ -53,6 +53,6 @@ func reportHostInfo(i *model.HostInfo) {
 	if reply != "ok" {
 		fmt.Println("report host info reply not success " + reply)
 	}else{
-		fmt.Println("ok")
+		//fmt.Println("ok")
 	}
 }
